@@ -35,6 +35,8 @@
 
 ## Calculator
 
+![Calculator](calculator_screenshot.png)
+
 ### How to run Calculator
 
 1. **Compile:**
@@ -47,10 +49,42 @@
    ./CALCULATOR
    ```
 
+### Example Session
+```
+==============================
+   COBOL Calculator
+==============================
+Enter first number: 
+10
+Enter operator (+, -, *, /): 
++
+Enter second number: 
+5
+10 + 5 = 15.00
+Continue? (Y/N): 
+Y
+
+==============================
+   COBOL Calculator
+==============================
+Enter first number: 
+100
+Enter operator (+, -, *, /): 
+/
+Enter second number: 
+0
+Error: Division by zero!
+Continue? (Y/N): 
+N
+
+Goodbye!
+```
+
 ### Features
 - Basic arithmetic: `+`, `-`, `*`, `/`
 - Division by zero protection
 - Loop mode (continue after each calculation)
+- Invalid operator handling
 
 ---
 
