@@ -35,7 +35,7 @@
 
 ## Calculator
 
-![Calculator](calculator_screenshot.png)
+![Calculator](calc.png)
 
 ### How to run Calculator
 
