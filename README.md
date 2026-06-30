@@ -2,7 +2,7 @@
 
 ## Tank Game
 
-![Tank Game](tank_gameplay.png)
+![Tank Game](tank.png)
 
 ### How to run Tank Game
 
